@@ -1,3 +1,14 @@
+<!-- 0xfaheng-brand:start -->
+**0xfaheng · tacit**
+
+[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/tacit)
+
+> 本仓库是 0xfaheng 使用或维护的 Fork。原项目来源：[z0r0z/tacit](https://github.com/z0r0z/tacit)。原作者署名和许可证保留，使用须遵循原项目许可。
+
+<!-- 0xfaheng-brand:end -->
+
+---
+
 <p align="center">
   <img src="./tacit.svg" alt="tacit" width="120">
 </p>
